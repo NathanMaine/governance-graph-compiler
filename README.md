@@ -181,7 +181,7 @@ Section Breakdown:
 
 The compiled DOT output renders to this governance graph:
 
-![Governance Graph Visualization](assets/governance-graph.png?v=2)
+![Governance Graph Visualization](https://raw.githubusercontent.com/NathanMaine/governance-graph-compiler/main/assets/governance-graph.png)
 
 <details>
 <summary><b>View DOT source</b></summary>
